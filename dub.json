@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"jordan4ibanez"
+	],
+	"copyright": "Copyright © 2022, jordan4ibanez",
+	"description": "Default initializers for float and double",
+	"license": "MIT",
+	"name": "j_init",
+    "targetType": "library"
+}

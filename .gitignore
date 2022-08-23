@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/j_init
+j_init.so
+j_init.dylib
+j_init.dll
+j_init.a
+j_init.lib
+j_init-test-*
+*.exe
+*.o
+*.obj
+*.lst
